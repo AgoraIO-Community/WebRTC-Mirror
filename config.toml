@@ -1,0 +1,40 @@
+baseURL = "/webrtc_image_doc/"
+languageCode = "zh-cn"
+title = "WebRTC Image Doc"
+themesDir = "themes"
+theme = "hugo-whisper-theme"
+
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+
+[[menu.main]]
+    name = "首页"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "指南"
+    url = "/docs/"
+    weight = 2
+
+[params]
+  google_analytics_id=""
+  homepage_button_link = '/docs'
+  homepage_button_text = '如何使用'
+  homepage_intro = '这是一个由 Agora.io 提供的 `WebRTC` 镜像源，你可以使用此版本代替 Google 官方版本（只读）'
+
+  # [params.homepage_meta_tags]
+  #   meta_description = "Hugo Whisper is a documentation theme built with Hugo."
+  #   meta_og_title = "Hugo Whisper Theme"
+  #   meta_og_type = "website"
+  #   meta_og_url = "https://hugo-whisper.netlify.com"
+  #   meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
+  #   meta_og_description = "Hugo Whisper is a documentation theme built with Hugo."
+  #   meta_twitter_card = "summary"
+  #   meta_twitter_site = "@zerostaticio"
+  #   meta_twitter_creator = "@zerostaticio"
+
+  [params.logo]
+      mobile = "/images/logo-mobile.svg"
+      standard  = "/images/logo.svg"
