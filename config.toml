@@ -2,10 +2,10 @@
 
 baseURL = '/webrtc_image_doc/'
 title = 'WebRTC 镜像源'
-theme = 'book'
+theme = 'hugo-book'
 disableKinds = ['taxonomy', 'taxonomyTerm']
 # themesDir = '../..'
-
+googleAnalytics = "GTM-NLWNM2T"
 # Book configuration
 disablePathToLower = true
 enableGitInfo = false

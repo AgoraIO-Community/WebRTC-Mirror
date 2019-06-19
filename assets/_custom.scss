@@ -1,1 +1,9 @@
 @import "variables";
+
+.agora-logo {
+  display: block;
+  padding: 0 0.5rem 1rem 0.5rem;
+  &__image {
+    height: 28px;
+  }
+}
