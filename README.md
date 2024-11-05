@@ -1,3 +1,12 @@
+# [ARCHIVED] WebRTC-Mirror
+
+**⚠️ This project is no longer maintained and has been archived.**  
+Please note that this repository is now in a read-only state and will not receive any further updates or support.
+
+We recommend using to the latest version of the **Agora Web SDK**: [Learn more](https://www.agora.io/en/products/video-call/) 
+
+For documentation and support, please visit the [Agora Documentation](https://docs.agora.io/en/).
+
 ### WebRTC 镜像文档
 > 这是一个由 Agora.io 提供的 `WebRTC` 镜像源，你可以使用此版本代替 Google 官方版本（只读）
 
